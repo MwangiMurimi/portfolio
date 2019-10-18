@@ -1,0 +1,12 @@
+html {
+  background-image:url(../images/blur.jpeg);
+  background-size:cover;
+  background-color:lightgray;
+  font-family: serif;
+  font:oblique;
+  text-align:center;
+}
+img {
+  float:left;
+  clear:left;
+}
