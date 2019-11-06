@@ -7,39 +7,11 @@ body {
   text-align:center;
   font-family: monospace;
 }
-.column {
-  float:left;
-  width:33.33%;
-  position: relative;
-  text-align: center;
-  font-size:large;
-}
-.mirror {
-  position: relative;
-  text-align: center;
-}
-.red {
-  position: relative;
-  text-align: center;
-}
-.shirt {
-  position: relative;
-  text-align: center;
-}
-.button {position: absolute;
-  top: 65%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  color:white;
-  font-size:xx-large;
-  border:10px;
-}
-input {
-  background-color:rgb(252, 205, 135);
+a {
   color:black;
-  font-size:150%;
-  size:50%;
-  font-family:serif;
-  font:oblique;
-  border-color: rgb(255, 228, 187);
+  text-decoration: none;
+}
+a:hover {
+  color:black;
+  text-decoration:black underline;
 }
