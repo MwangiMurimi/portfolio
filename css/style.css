@@ -36,3 +36,11 @@ li {
 #topbar {
   text-align:left;
 }
+.gallery {
+  text-align:center;
+  width:100%;
+}
+#pics {
+  display:block;
+  width:100%;
+}
