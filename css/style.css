@@ -1,46 +1,54 @@
 body {
-  background-color:rgb(234, 236, 207);
+  background-color: rgb(234, 236, 207);
   background-image: url(../images/sky.jpg);
-  background-size:cover;
-  background-attachment:fixed;
-  overflow:scroll;
-  text-align:center;
-  font-family:sans-serif;
-  font:oblique;
+  background-size: cover;
+  background-attachment: fixed;
+  overflow: scroll;
+  text-align: center;
+  font-family: sans-serif;
+  font: oblique;
 }
+
 a {
-  color:black;
+  color: black;
   text-decoration: none;
 }
+
 a:hover {
-  color:black;
-  text-decoration:black underline;
+  color: black;
+  text-decoration: black underline;
 }
+
 li {
   list-style: none;
 }
+
 #git {
-  float:left;
+  float: left;
 }
+
 @media only screen and (min-width:800px) {
   .section {
-    width:50%;
-    margin-left:25%;
-    margin-right:25%;
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
   }
 }
+
 #icon {
-  margin:0px;
+  margin: 0px;
 }
 
 #topbar {
-  text-align:left;
+  text-align: left;
 }
+
 .gallery {
-  text-align:center;
-  width:100%;
+  text-align: center;
+  width: 100%;
 }
+
 #pics {
-  display:block;
-  width:100%;
+  display: block;
+  width: 100%;
 }
